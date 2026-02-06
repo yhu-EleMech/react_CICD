@@ -8,7 +8,7 @@ export default defineConfig({
     environment: 'jsdom',
     setupFiles: './src/setupTests.ts',
     reporters: [
-      ['default', { summary: false }]
+      ['default', { summary: true }]
     ]
   },
 })
