@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1770414173957" clover="3.2.0">
+  <project timestamp="1770414173957" name="All files">
+    <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3" elements="7" coveredelements="7" complexity="0" loc="4" ncloc="4" packages="1" files="2" classes="2"/>
+    <file name="App.css" path="C:\Users\YongHu\Documents\GitHub\react_CICD\src\App.css">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+    </file>
+    <file name="App.tsx" path="C:\Users\YongHu\Documents\GitHub\react_CICD\src\App.tsx">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="7" count="6" type="stmt"/>
+      <line num="9" count="6" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="13" count="6" type="stmt"/>
+    </file>
+  </project>
+</coverage>

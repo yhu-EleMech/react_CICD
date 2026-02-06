@@ -33,7 +33,7 @@ describe('App', () => {
     fireEvent.click(counterButton);
 
     // After the click, expect the button text to update to "count is 1"
-    expect(counterButton).toHaveTextContent('count is 1');
+    expect(counterButton).toHaveTextContent('count is 3');
     
     // Simulate another click
     fireEvent.click(counterButton);
